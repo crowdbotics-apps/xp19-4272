@@ -1,0 +1,3 @@
+rootProject.name = 'xp19_4272'
+
+include ':app'
